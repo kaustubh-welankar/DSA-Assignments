@@ -7,7 +7,7 @@
 - [ ] Question 4
 - [ ] Question 5
 - [ ] Question 6
-- [ ] Question 7
-- [ ] Question 8
-- [ ] Question 9
-- [ ] Question 10
+- [X] Question 7
+- [X] Question 8
+- [X] Question 9
+- [X] Question 10
