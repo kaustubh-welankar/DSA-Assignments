@@ -1,9 +1,9 @@
 # DSA Assignments
 
 ## Assignment 1
-- [ ] Question 1
-- [ ] Question 2
-- [ ] Question 3
+- [X] Question 1
+- [X] Question 2
+- [X] Question 3
 - [ ] Question 4
 - [X] Question 5
 - [X] Question 6
