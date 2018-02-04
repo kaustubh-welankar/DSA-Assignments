@@ -33,3 +33,15 @@
 - [ ] Question 18
 - [ ] Question 19
 - [ ] Question 20
+
+## Assignment 3
+- [X] Question 1 ---Is a better solution possible ?
+- [X] Question 2
+- [ ] Question 3
+- [ ] Question 4
+- [ ] Question 5
+- [ ] Question 6
+- [ ] Question 7
+- [ ] Question 8
+- [ ] Question 9
+- [ ] Question 10
