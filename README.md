@@ -38,10 +38,10 @@
 - [X] Question 1 ---Is a better solution possible ?
 - [X] Question 2
 - [ ] Question 3
-- [ ] Question 4
+- [X] Question 4 ---Better Solution? Confirm Algorithm with someone
 - [ ] Question 5
 - [ ] Question 6
-- [ ] Question 7
+- [X] Question 7
 - [ ] Question 8
-- [ ] Question 9
+- [X] Question 9 ---Append 0s to all strings to make length equal. Then use inbuilt qsort
 - [ ] Question 10
