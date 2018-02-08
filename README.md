@@ -35,13 +35,18 @@
 - [ ] Question 20
 
 ## Assignment 3
-- [X] Question 1 ---Is a better solution possible ?
+- [X] Question 1 ---Is a better solution possible ? Binary Search works | Why
 - [X] Question 2
-- [ ] Question 3
+- [X] Question 3
 - [X] Question 4 ---Better Solution? Confirm Algorithm with someone
 - [ ] Question 5
-- [ ] Question 6
+- [X] Question 6 --- Worst Case O(nm + nlogn) 
 - [X] Question 7
 - [ ] Question 8
 - [X] Question 9 ---Append 0s to all strings to make length equal. Then use inbuilt qsort
 - [ ] Question 10
+
+Q1] Equalize height geeksforgeeks
+Q3] Binary Search
+Q4] Aggresive Cows
+Q5] 
