@@ -46,7 +46,14 @@
 - [X] Question 9 ---Append 0s to all strings to make length equal. Then use inbuilt qsort
 - [ ] Question 10
 
-Q1] Equalize height geeksforgeeks
-Q3] Binary Search
-Q4] Aggresive Cows
-Q5] 
+## Assignment 4
+- [X] Question 1
+- [X] Question 2
+- [ ] Question 3
+- [X] Question 4
+- [X] Question 5
+- [X] Question 6
+- [ ] Question 7
+- [ ] Question 8
+- [ ] Question 9
+- [ ] Question 10
