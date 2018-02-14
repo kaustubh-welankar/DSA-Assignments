@@ -53,7 +53,7 @@
 - [X] Question 4
 - [X] Question 5
 - [X] Question 6
-- [ ] Question 7
-- [ ] Question 8
+- [X] Question 7
+- [X] Question 8
 - [ ] Question 9
-- [ ] Question 10
+- [X] Question 10
